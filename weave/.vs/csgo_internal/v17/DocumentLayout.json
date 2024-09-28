@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\holow\\Desktop\\mans boney\\weave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8A0BDB-E377-4741-8894-CBB4DD5DD7A7}|csgo_internal\\csgo_sln.vcxproj|C:\\Users\\holow\\Desktop\\mans boney\\weave\\csgo_internal\\deps\\weave-gui\\instance\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C8A0BDB-E377-4741-8894-CBB4DD5DD7A7}|csgo_internal\\csgo_sln.vcxproj|solutionrelative:csgo_internal\\deps\\weave-gui\\instance\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "window.cpp",
+              "DocumentMoniker": "C:\\Users\\holow\\Desktop\\mans boney\\weave\\csgo_internal\\deps\\weave-gui\\instance\\window.cpp",
+              "RelativeDocumentMoniker": "csgo_internal\\deps\\weave-gui\\instance\\window.cpp",
+              "ToolTip": "C:\\Users\\holow\\Desktop\\mans boney\\weave\\csgo_internal\\deps\\weave-gui\\instance\\window.cpp",
+              "RelativeToolTip": "csgo_internal\\deps\\weave-gui\\instance\\window.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T14:25:28.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
